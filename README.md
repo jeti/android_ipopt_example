@@ -4,7 +4,7 @@ This is perhaps the simplest possible example project that one can make demonstr
 
 or you can build the libraries yourself with the script provided there. Up to you...
 
-There are just a few steps necessary to get IPOPT working in an Android project, as demonstrated in [this video](https://youtu.be/7hNbvoRIvZE):
+There are just a few steps necessary to get IPOPT working in an Android project, as demonstrated in [this video](https://youtu.be/7hNbvoRIvZE). Here is a recap of what we did to create this repo (you can follow these steps to create your own app from scratch):
 
 1. Create a new Android project with C++ support. This project should have the structure 
 
